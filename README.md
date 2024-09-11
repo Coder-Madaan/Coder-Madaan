@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-madaan&label=Profile%20views&color=0e75b6&style=flat" alt="coder-madaan" /> </p>
 
-- 🌱 I’m currently learning **NextJs, SQL**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Web Dev related Projects**
 
